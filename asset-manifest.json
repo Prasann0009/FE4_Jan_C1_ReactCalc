@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/fe4_jan_c1_reactcalc/static/js/main.4dae39d9.js",
+    "main.js": "/fe4_jan_c1_reactcalc/static/js/main.419685b7.js",
     "index.html": "/fe4_jan_c1_reactcalc/index.html",
-    "main.4dae39d9.js.map": "/fe4_jan_c1_reactcalc/static/js/main.4dae39d9.js.map"
+    "main.419685b7.js.map": "/fe4_jan_c1_reactcalc/static/js/main.419685b7.js.map"
   },
   "entrypoints": [
-    "static/js/main.4dae39d9.js"
+    "static/js/main.419685b7.js"
   ]
 }
