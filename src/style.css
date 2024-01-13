@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.calcdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    margin: auto;
+    margin-top: 15%;
+    gap: 10px;
+    border-radius: 10px;
+    box-shadow: -30px 20px 100px 10px rgba(251, 24, 78, 0.47);
+}
+.buttons
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+.buttons button{
+    padding: 7px 15px;
+    background-color: black;
+    color: white;
+    border: none;
+}
